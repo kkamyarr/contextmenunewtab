@@ -5,5 +5,5 @@
   "description": "This add-on is a variation of New-Tab-In-Context-Menu add-on. You can simply right click on the active tab and choose a new tab to be opened next to the active tab rather than on the far right.",
   "author": "raymak",
   "license": "MPL 2.0",
-  "version": "0.1"
+  "version": "1.0"
 }
